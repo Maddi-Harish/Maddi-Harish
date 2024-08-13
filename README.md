@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Maddi</h1>
 
-
+![My Profile ](https://github.com/user-attachments/assets/711ec1ca-0ab3-4cf1-806b-e0e046b42fbe)
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p>
   I am a passionate MERN Stack Developer with over 2 years of coding experience in building dynamic and responsive web applications. My journey in coding has equipped me with a strong foundation in JavaScript, React, Express.js, Node.js, and MongoDB, Sql, allowing me to create robust solutions tailored to meet user needs.
