@@ -41,3 +41,6 @@ Currently, I am working on an exciting new project that challenges my creativity
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maddi-Harish&show_icons=true&locale=en" alt="harishmaddi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maddi-Harish&" alt="harishmaddi" /></p>
+
+![Ecom Zone](https://github.com/user-attachments/assets/e7b0f19f-7036-4cc8-b8c4-51613ab8dd1b)
+
