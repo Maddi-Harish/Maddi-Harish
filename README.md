@@ -24,7 +24,7 @@ Currently, I am working on an exciting new project that challenges my creativity
 
 - 💬 Ask me about **Mern Stack**
 
-- <h3>Skills: <  REACT / JS / HTML / CSS / NODE / EXPRESS / MONGOBD / MULTER / NODEMAILER / REACT NATIVE / POST MAN / MULTER / NODEMAILER / GIT / GITHUB / *AWS / *REACTNATIVE  /></h3>
+- <h3>Skills: <  REACT / JS / HTML / CSS / NODE / EXPRESS / MONGOBD / MULTER / NODEMAILER / REACT NATIVE / POST MAN / GIT / GITHUB / *AWS / *REACTNATIVE / NETLIFY / RENDER /></h3>
 
 - 📫 How to reach me **maddiharishreddy@gmail.com**
 
