@@ -27,7 +27,7 @@ Below are my latest AI-driven applications along with earlier foundational proje
 
 🎨 Designed with interactive graphs and a modern UI/UX approach
 
-🔗 View Project – Growth Calculator {https://modified-growth-calculator-sspk.vercel.app/}
+🔗 View Project – Growth Calculator https://modified-growth-calculator-sspk.vercel.app/
 
 2. Personal Finance Dashboard
 
@@ -37,7 +37,7 @@ Below are my latest AI-driven applications along with earlier foundational proje
 
 🧠 Provides personalized recommendations based on user data
 
-🔗 View Project – Personal Finance Dashboard {https://personal-dashboard-dusky-eight.vercel.app/dashboard}
+🔗 View Project – Personal Finance Dashboard https://personal-dashboard-dusky-eight.vercel.app/dashboard
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maddi-Harish&label=Profile%20views&color=0e75b6&style=flat" alt="harishmaddi" /> </p>
 
