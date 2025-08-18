@@ -17,7 +17,7 @@ I have successfully completed several projects that showcase my technical expert
 
 Below are my latest AI-driven applications along with earlier foundational projects:
 
-🔹 AI-Driven Financial Projects (Latest Work)
+🔹 AI-Driven Financial Projects (Latest Work)    <<<---
 
 1. Growth Calculator Application
 
@@ -41,7 +41,7 @@ Below are my latest AI-driven applications along with earlier foundational proje
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maddi-Harish&label=Profile%20views&color=0e75b6&style=flat" alt="harishmaddi" /> </p>
 
-  📌 Foundational Web Projects (Earlier Work)
+  📌 Foundational Web Projects (Earlier Work)    <<<---
 
 - 🔭 I developed a Admin Dashboard Project [AdminEcommerce](https://ecomzone.netlify.app/ Recently updated again)
 
