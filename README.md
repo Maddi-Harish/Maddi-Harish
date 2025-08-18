@@ -9,12 +9,41 @@ One of my proudest achievements is developing an Admin Project for an E-commerce
 
 Currently, I am working on an exciting new project that challenges my creativity and problem-solving abilities. I thrive on tackling complex challenges and continuously seek opportunities to learn and grow in this ever-evolving field.
 
-</p>
+</p>  
+ 
+🚀 Project Showcase
+
+I have successfully completed several projects that showcase my technical expertise and highlight my ability to design intuitive, user-friendly interfaces.
+
+Below are my latest AI-driven applications along with earlier foundational projects:
+
+🔹 AI-Driven Financial Projects (Latest Work)
+
+1. Growth Calculator Application
+
+⚡ Built with Next.js and Node.js modules
+
+📊 Features: EMI Calculator, PF Calculator, EPF Calculator
+
+🎨 Designed with interactive graphs and a modern UI/UX approach
+
+🔗 View Project – Growth Calculator
+
+2. Personal Finance Dashboard
+
+🎯 Allows users to set personal goals, track income & expenses
+
+🤖 Integrated AI-powered forecasting tools for financial planning
+
+🧠 Provides personalized recommendations based on user data
+
+🔗 View Project – Personal Finance Dashboard
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maddi-Harish&label=Profile%20views&color=0e75b6&style=flat" alt="harishmaddi" /> </p>
 
-- 🔭 I’m currently working on [AdminEcommerce](https://ecomzone.netlify.app/ Recently updated again)
+- 🔭 I developed a Admin Dashboard Project [AdminEcommerce](https://ecomzone.netlify.app/ Recently updated again)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI Tools**
 
 - 👯 Created Stack fitness zone Website using React [StackFitness](https://slackfitnesszone.netlify.app)
 
